@@ -2,7 +2,6 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhupesh-k8s/" target="_blank" rel="noreferrer">Hemanshu</a> is a Passionate DevOps Engineer From India, Working On Cloud And DevOps. Feel Free To Reach Out For Any Freelance Projects.</font></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjonczy&label=Profile%20views&color=0e75b6&style=flat" alt="rjonczy" /> </p>
 
 <h3 align="left">About me</h3>
 
