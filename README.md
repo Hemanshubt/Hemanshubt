@@ -10,7 +10,7 @@
 
 
 My strong skills are:
-- Clouds (Azure , AWS & GCP) 
+- Clouds ( AWS )
 - CI/CD Automation (Jenkins)
 - Docker & Kubernetes
 	
@@ -18,7 +18,6 @@ My strong skills are:
   - Microservices Networking (Istio)
   - Kubernetes Configs (Kustomize)
 
-- GitOps (ArgoCD)
 - Monitoring (Prometheus)
 - Infrastructure As Code (Terraform)
 	
@@ -28,8 +27,8 @@ I'm currently mainly focused on areas of #Docker & #Kubernetes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhupesh-k8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-k8s" height="30" width="40" /></a>
-<a href="https://instagram.com/bhupesh_k8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupesh_k8s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemanshu-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupesh-k8s" height="30" width="40" /></a>
+<a href="https://instagram.com/hemanshum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupesh_k8s" height="30" width="40" /></a>
 </p>
 
 
