@@ -6,7 +6,7 @@
 
 <h3 align="left">About me</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="500" height="320" />
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 
 My strong skills are:
