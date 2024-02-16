@@ -62,11 +62,3 @@ I'm currently mainly focused on areas of #Docker & #Kubernetes.
 </p>
 
 
-<!-- <h3 align="left">Certifications</h3>
-<p align="left">
-<ul>
-  <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/BhupeshPatil-6030/714CBD31033942F3?sharingId=9FCA2D172DF6B5CE" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="af" width="40" height="40"/> Microsoft Certified: Azure Fundamentals </a> </li>
-  <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/BhupeshPatil-6030/2C3E0A214A2C8818?sharingId=9FCA2D172DF6B5CE" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="aa" width="40" height="40"/> Microsoft Certified: Azure Administrator Associate </a> </li>
-  <li><a href="https://www.credly.com/earner/earned/badge/9890dfc5-9e13-4d9a-9666-1ee651230aff" target="_blank" rel="noreferrer"> <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png" alt="fa" width="40" height="40"/> Oracle Cloud Infrastructure Certified : Foundations Associate </a> </li>
-</ul>  -->
-</p>
