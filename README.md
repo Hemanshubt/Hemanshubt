@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi 👋, I'm Hemanshu</h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/bhupesh-k8s/" target="_blank" rel="noreferrer">Hemanshu</a> is a Passionate DevOps Engineer From India, Working On Cloud And DevOps. Feel Free To Reach Out For Any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/hemanshu-mahajan/" target="_blank" rel="noreferrer">Hemanshu</a> is a Passionate DevOps Engineer From India, Working On Cloud And DevOps. Feel Free To Reach Out For Any Freelance Projects.</font></h3>
 
 
 
