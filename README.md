@@ -15,8 +15,6 @@ My strong skills are:
 - Docker & Kubernetes
 	
   - Advance Deployement (Helm)
-  - Microservices Networking (Istio)
-  - Kubernetes Configs (Kustomize)
 
 - Monitoring (Prometheus)
 - Infrastructure As Code (Terraform)
