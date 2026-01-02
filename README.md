@@ -1,11 +1,10 @@
-
 # 👋 Hi, I’m Hemanshu Mahajan
 
 🚀 DevOps Fresher | Cloud • CI/CD • Automation
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)
 
-I’m a DevOps fresher focused on cloud infrastructure, automation, and CI/CD pipelines.
+I’m a DevOps fresher focused on cloud infrastructure, automation, and CI/CD pipelines.  
 I learn by building hands-on projects and following real-world DevOps practices.
 
 ---
@@ -58,7 +57,7 @@ I learn by building hands-on projects and following real-world DevOps practices.
 
 ## 🎯 Career Objective
 
-Entry-level DevOps Engineer role where I can contribute to automation, cloud infrastructure, and system reliability while continuously learning.
+Entry-level **DevOps Engineer** role where I can contribute to automation, cloud infrastructure, and system reliability while continuously learning.
 
 ---
 
